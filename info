@@ -1,0 +1,10 @@
+1) ng new SportsStore
+
+2) update package.json
+npm install
+
+3) start server
+ng serve --port 3000 --open
+
+4) run REST web Service
+npm run json
